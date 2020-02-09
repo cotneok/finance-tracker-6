@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 gem 'devise'
 gem 'iex-ruby-client'
+gem 'font-awesome-rails'
 
 
 # Use ActiveStorage variant
